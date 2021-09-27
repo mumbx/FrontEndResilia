@@ -5,6 +5,8 @@
 
 Projeto criado para consumir uma Api de gerenciamento de equipamentos de informática de uma EDTECH
 
+- [SITE JÁ HOSPEDADO](https://computers-management-resilia.netlify.app/)
+
 - [DOCUMENTAÇÃO DA API](https://github.com/mumbx/backEndResilia)
 
 Após clonado, basta executar os comandos abaixo para instalar as dependências e subir o projeto em seguida
